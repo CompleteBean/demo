@@ -53,7 +53,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.demo.DemoApplication</mainClass>
+                            <mainClass>com.example.demo.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
